@@ -28,6 +28,10 @@ Here's a link to [Medium article](https://snrspeaks.medium.com/simplet5-train-t5
 ## Install
 ```python
 # It's advisable to create a new python environment and install simplet5
+
+<p>
+<a href="https://console.tiyaro.ai/explore/snrspeaks-t5-one-line-summary-9607186"> <img src="https://tiyaro-public-docs.s3.us-west-2.amazonaws.com/assets/try_on_tiyaro_badge.svg"></a>
+</p>
 pip install --upgrade simplet5
 ```
 
